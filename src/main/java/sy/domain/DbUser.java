@@ -10,6 +10,7 @@ public class DbUser {
 	public String getUsername() {
 		return username;
 	}
+	ASDFAEEAFSFEAFFEAFE
 	public void setUsername(String username) {
 		this.username = username;
 	}
@@ -24,8 +25,4 @@ public class DbUser {
 	}
 	public void setAccess(Integer access) {
 		this.access = access;
-	}  
-  
-    
-  
-}  
+	}  FEFA
