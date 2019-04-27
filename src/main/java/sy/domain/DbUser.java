@@ -7,11 +7,11 @@ public class DbUser {
     private String username;  
     private String password;  
     private Integer access;
-	public String getUsername() {
+	public String GetUsername() {
 		return username;
 	}
 	ASDFAEEAFSFEAFFEAFE
-	public void setUsername(String username) {
+	public void seTUsername(String username) {
 		this.username = username;
 	}
 	public String getPassword() {
