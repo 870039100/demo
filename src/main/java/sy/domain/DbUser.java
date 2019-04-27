@@ -3,7 +3,7 @@ package sy.domain;
 
 
 public class DbUser {  
-  
+  asdasdfads
     private String username;  
     private String password;  
     private Integer access;
